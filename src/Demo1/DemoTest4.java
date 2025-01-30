@@ -66,7 +66,17 @@ public class DemoTest4 {
 		System.out.println("GROUP " + group + "is not part of world Cup Table. " );
 		System.out.println("Is Group" + group + "Exits:" + isGroupExist);
 	} 	
-	
+
+             int x = 10;
+	     int y = 40;
+
+		if(x > y){
+			System.out.println("Greater");
+		}else{
+			System.out.println("Less");
+
+		}
+
 }
 	
 }
